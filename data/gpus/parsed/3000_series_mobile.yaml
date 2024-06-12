@@ -1,0 +1,161 @@
+- gpu: GeForce RTX 3050 Laptop
+  architecture: null
+  code_name:
+    - GA107
+    - GN20-P0
+  l2_cache:
+    value: 2
+    unit: MB
+  vram:
+    value: 4
+    unit: GB
+  memory_bandwidth:
+    value: 192
+    unit: GB/s
+  cuda_cores:
+    value: 2048
+    unit: null
+  sm_count:
+    value: 16
+    unit: null
+  max_clock:
+    value: 1740
+    unit: MHz
+- gpu: GeForce RTX 3050 Ti Laptop
+  architecture: null
+  code_name:
+    - GA107
+    - GN20-P1
+  l2_cache:
+    value: 2
+    unit: MB
+  vram:
+    value: 4
+    unit: GB
+  memory_bandwidth:
+    value: 192
+    unit: GB/s
+  cuda_cores:
+    value: 2560
+    unit: null
+  sm_count:
+    value: 20
+    unit: null
+  max_clock:
+    value: 1695
+    unit: MHz
+- gpu: GeForce RTX 3060 Laptop
+  architecture: null
+  code_name:
+    - GA106
+    - GN20-E3
+  l2_cache:
+    value: 3
+    unit: MB
+  vram:
+    value: 6
+    unit: GB
+  memory_bandwidth:
+    value: 336
+    unit: GB/s
+  cuda_cores:
+    value: 3840
+    unit: null
+  sm_count:
+    value: 30
+    unit: null
+  max_clock:
+    value: 1703
+    unit: MHz
+- gpu: GeForce RTX 3070 Laptop
+  architecture: null
+  code_name:
+    - GA104-770
+    - GN20-E5
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 5120
+    unit: null
+  sm_count:
+    value: 40
+    unit: null
+  max_clock:
+    value: 1620
+    unit: MHz
+- gpu: GeForce RTX 3070 Ti Laptop
+  architecture: null
+  code_name:
+    - GA104
+    - GN20-E6
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 5888
+    unit: null
+  sm_count:
+    value: 46
+    unit: null
+  max_clock:
+    value: 1485
+    unit: MHz
+- gpu: GeForce RTX 3080 Laptop
+  architecture: null
+  code_name:
+    - GA104-775
+    - GN20-E7
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 6144
+    unit: null
+  sm_count:
+    value: 48
+    unit: null
+  max_clock:
+    value: 1710
+    unit: MHz
+- gpu: GeForce RTX 3080 Ti Laptop
+  architecture: null
+  code_name:
+    - GA103
+    - GN20-E8
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 16
+    unit: GB
+  memory_bandwidth:
+    value: 512
+    unit: GB/s
+  cuda_cores:
+    value: 7424
+    unit: null
+  sm_count:
+    value: 58
+    unit: null
+  max_clock:
+    value: 1590
+    unit: MHz

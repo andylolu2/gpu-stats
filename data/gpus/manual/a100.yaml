@@ -1,0 +1,94 @@
+# Sources:
+# - https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/PB-10577-001_v02.pdf
+# - https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf
+# - https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/A100-PCIE-Prduct-Brief.pdf
+
+- gpu: A100 40GB PCIe
+  architecture: Ampere
+  code_name:
+    - GA100-883AA-A1
+  l2_cache:
+    value: 40
+    unit: MB
+  vram:
+    value: 40
+    unit: GB
+  memory_bandwidth:
+    value: 1555
+    unit: GB/s
+  cuda_cores:
+    value: 122888
+    unit: null
+  sm_count:
+    value: 108
+    unit: null
+  max_clock:
+    value: 1410
+    unit: MHz
+- gpu: A100 80GB PCIe
+  architecture: Ampere
+  code_name:
+    - GA100-893FF
+    - GA100-893FFF
+    - GA100-893HH
+    - GA100-893HHH
+  l2_cache:
+    value: 40
+    unit: MB
+  vram:
+    value: 80
+    unit: GB
+  memory_bandwidth:
+    value: 1935
+    unit: GB/s
+  cuda_cores:
+    value: 122888
+    unit: null
+  sm_count:
+    value: 108
+    unit: null
+  max_clock:
+    value: 1410
+    unit: MHz
+- gpu: A100 40GB SXM
+  architecture: Ampere
+  code_name: []
+  l2_cache:
+    value: 40
+    unit: MB
+  vram:
+    value: 40
+    unit: GB
+  memory_bandwidth:
+    value: 1555
+    unit: GB/s
+  cuda_cores:
+    value: 122888
+    unit: null
+  sm_count:
+    value: 108
+    unit: null
+  max_clock:
+    value: 1410
+    unit: MHz
+- gpu: A100 80GB SXM
+  architecture: Ampere
+  code_name: []
+  l2_cache:
+    value: 40
+    unit: MB
+  vram:
+    value: 80
+    unit: GB
+  memory_bandwidth:
+    value: 2039
+    unit: GB/s
+  cuda_cores:
+    value: 122888
+    unit: null
+  sm_count:
+    value: 108
+    unit: null
+  max_clock:
+    value: 1410
+    unit: MHz

@@ -1,0 +1,230 @@
+- gpu: GeForce RTX 4060
+  architecture: null
+  code_name:
+    - AD107-400
+  l2_cache:
+    value: 24
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 272
+    unit: GB/s
+  cuda_cores:
+    value: 3072
+    unit: null
+  sm_count:
+    value: 24
+    unit: null
+  max_clock:
+    value: 2460
+    unit: MHz
+
+- gpu: GeForce RTX 4060 Ti
+  architecture: null
+  code_name:
+    - AD106-350
+    - AD106-351
+  l2_cache:
+    value: 32
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 288
+    unit: GB/s
+  cuda_cores:
+    value: 4352
+    unit: null
+  sm_count:
+    value: 34
+    unit: null
+  max_clock:
+    value: 2540
+    unit: MHz
+
+- gpu: GeForce RTX 4070
+  architecture: null
+  code_name:
+    - AD104-250
+  l2_cache:
+    value: 36
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 504
+    unit: GB/s
+  cuda_cores:
+    value: 5888
+    unit: null
+  sm_count:
+    value: 46
+    unit: null
+  max_clock:
+    value: 2475
+    unit: MHz
+
+- gpu: GeForce RTX 4070 SUPER
+  architecture: null
+  code_name:
+    - AD104-350
+  l2_cache:
+    value: 48
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 504
+    unit: GB/s
+  cuda_cores:
+    value: 7168
+    unit: null
+  sm_count:
+    value: 56
+    unit: null
+  max_clock:
+    value: 2475
+    unit: MHz
+
+- gpu: GeForce RTX 4070 Ti
+  architecture: null
+  code_name:
+    - AD104-400
+  l2_cache:
+    value: 60
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 504
+    unit: GB/s
+  cuda_cores:
+    value: 7680
+    unit: null
+  sm_count:
+    value: 60
+    unit: null
+  max_clock:
+    value: 2610
+    unit: MHz
+
+- gpu: GeForce RTX 4070 Ti SUPER
+  architecture: null
+  code_name:
+    - AD103-275
+  l2_cache:
+    value: 66
+    unit: MB
+  vram:
+    value: 16
+    unit: GB
+  memory_bandwidth:
+    value: 672
+    unit: GB/s
+  cuda_cores:
+    value: 8448
+    unit: null
+  sm_count:
+    value: 66
+    unit: null
+  max_clock:
+    value: 2610
+    unit: MHz
+
+- gpu: GeForce RTX 4080
+  architecture: null
+  code_name:
+    - AD103-300
+  l2_cache:
+    value: 64
+    unit: MB
+  vram:
+    value: 16
+    unit: GB
+  memory_bandwidth:
+    value: 716.8
+    unit: GB/s
+  cuda_cores:
+    value: 9728
+    unit: null
+  sm_count:
+    value: 76
+    unit: null
+  max_clock:
+    value: 2505
+    unit: MHz
+
+- gpu: GeForce RTX 4080 SUPER
+  architecture: null
+  code_name:
+    - AD103-400
+  l2_cache:
+    value: 64
+    unit: MB
+  vram:
+    value: 16
+    unit: GB
+  memory_bandwidth:
+    value: 736
+    unit: GB/s
+  cuda_cores:
+    value: 10240
+    unit: null
+  sm_count:
+    value: 80
+    unit: null
+  max_clock:
+    value: 2550
+    unit: MHz
+
+- gpu: GeForce RTX 4090 D
+  architecture: null
+  code_name:
+    - AD102-250
+  l2_cache:
+    value: 72
+    unit: MB
+  vram:
+    value: 24
+    unit: GB
+  memory_bandwidth:
+    value: 1008
+    unit: GB/s
+  cuda_cores:
+    value: 14592
+    unit: null
+  sm_count:
+    value: 114
+    unit: null
+  max_clock:
+    value: 2520
+    unit: MHz
+
+- gpu: GeForce RTX 4090
+  architecture: null
+  code_name:
+    - AD102-300
+  l2_cache:
+    value: 72
+    unit: MB
+  vram:
+    value: 24
+    unit: GB
+  memory_bandwidth:
+    value: 1008
+    unit: GB/s
+  cuda_cores:
+    value: 16384
+    unit: null
+  sm_count:
+    value: 128
+    unit: null
+  max_clock:
+    value: 2520
+    unit: MHz

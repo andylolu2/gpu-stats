@@ -1,0 +1,239 @@
+- gpu: GeForce RTX 3050
+  architecture: null
+  code_name:
+    - GA107-325
+    - GA107-150
+    - GA106-150
+  l2_cache:
+    value: 2
+    unit: MB
+  vram:
+    value: 6
+    unit: GB
+  memory_bandwidth:
+    value: 168
+    unit: GB/s
+  cuda_cores:
+    value: 2304
+    unit: null
+  sm_count:
+    value: 18
+    unit: null
+  max_clock:
+    value: 1470
+    unit: MHz
+
+- gpu: GeForce RTX 3060
+  architecture: null
+  code_name:
+    - GA106-300
+    - GA106-302
+    - GA104-150
+  l2_cache:
+    value: 3
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 360
+    unit: GB/s
+  cuda_cores:
+    value: 3584
+    unit: null
+  sm_count:
+    value: 28
+    unit: null
+  max_clock:
+    value: 1777
+    unit: MHz
+
+- gpu: GeForce RTX 3060 Ti
+  architecture: null
+  code_name:
+    - GA104-200
+    - GA104-202
+    - GA103-200
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 4864
+    unit: null
+  sm_count:
+    value: 38
+    unit: null
+  max_clock:
+    value: 1665
+    unit: MHz
+
+- gpu: GeForce RTX 3070
+  architecture: null
+  code_name:
+    - GA104-300
+    - GA104-302
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 5888
+    unit: null
+  sm_count:
+    value: 46
+    unit: null
+  max_clock:
+    value: 1725
+    unit: MHz
+
+- gpu: GeForce RTX 3070 Ti
+  architecture: null
+  code_name:
+    - GA104-400
+    - GA102-150
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 608
+    unit: GB/s
+  cuda_cores:
+    value: 6144
+    unit: null
+  sm_count:
+    value: 48
+    unit: null
+  max_clock:
+    value: 1770
+    unit: MHz
+
+- gpu: GeForce RTX 3080
+  architecture: null
+  code_name:
+    - GA102-200
+    - GA102-202
+  l2_cache:
+    value: 5
+    unit: MB
+  vram:
+    value: 10
+    unit: GB
+  memory_bandwidth:
+    value: 760
+    unit: GB/s
+  cuda_cores:
+    value: 8704
+    unit: null
+  sm_count:
+    value: 68
+    unit: null
+  max_clock:
+    value: 1710
+    unit: MHz
+
+- gpu: GeForce RTX 3080 (12 GB)
+  architecture: null
+  code_name:
+    - GA102-220
+  l2_cache:
+    value: 5
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 912
+    unit: GB/s
+  cuda_cores:
+    value: 8960
+    unit: null
+  sm_count:
+    value: 70
+    unit: null
+  max_clock:
+    value: 1710
+    unit: MHz
+
+- gpu: GeForce RTX 3080 Ti
+  architecture: null
+  code_name:
+    - GA102-225
+  l2_cache:
+    value: 6
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 912
+    unit: GB/s
+  cuda_cores:
+    value: 10240
+    unit: null
+  sm_count:
+    value: 80
+    unit: null
+  max_clock:
+    value: 1665
+    unit: MHz
+
+- gpu: GeForce RTX 3090
+  architecture: null
+  code_name:
+    - GA102-250
+    - GA102-300
+  l2_cache:
+    value: 6
+    unit: MB
+  vram:
+    value: 24
+    unit: GB
+  memory_bandwidth:
+    value: 936
+    unit: GB/s
+  cuda_cores:
+    value: 10496
+    unit: null
+  sm_count:
+    value: 82
+    unit: null
+  max_clock:
+    value: 1695
+    unit: MHz
+
+- gpu: GeForce RTX 3090 Ti
+  architecture: null
+  code_name:
+    - GA102-350
+  l2_cache:
+    value: 6
+    unit: MB
+  vram:
+    value: 24
+    unit: GB
+  memory_bandwidth:
+    value: 1008
+    unit: GB/s
+  cuda_cores:
+    value: 10752
+    unit: null
+  sm_count:
+    value: 84
+    unit: null
+  max_clock:
+    value: 1860
+    unit: MHz

@@ -1,0 +1,171 @@
+- tensor_core_gen: 1
+  tensor_core_type: consumer
+  fma_per_sm_per_cycle:
+    - input: f16
+      accumulation: f32
+      value: 512
+    - input: f16
+      accumulation: f16
+      value: 512
+- tensor_core_gen: 1
+  tensor_core_type: datacenter
+  fma_per_sm_per_cycle:
+    - input: f16
+      accumulation: f32
+      value: 512
+    - input: f16
+      accumulation: f16
+      value: 512
+- tensor_core_gen: 2
+  tensor_core_type: consumer
+  fma_per_sm_per_cycle:
+    - input: f16
+      accumulation: f32
+      value: 256
+    - input: f16
+      accumulation: f16
+      value: 512
+    - input: int8
+      accumulation: int32
+      value: 1024
+    - input: int4
+      accumulation: int32
+      value: 2048
+    - input: int1
+      accumulation: int32
+      value: 8192
+- tensor_core_gen: 2
+  tensor_core_type: datacenter
+  fma_per_sm_per_cycle:
+    - input: f16
+      accumulation: f32
+      value: 512
+    - input: f16
+      accumulation: f16
+      value: 512
+    - input: int8
+      accumulation: int32
+      value: 1024
+    - input: int4
+      accumulation: int32
+      value: 2048
+    - input: int1
+      accumulation: int32
+      value: 8192
+- tensor_core_gen: 3
+  tensor_core_type: consumer
+  fma_per_sm_per_cycle:
+    - input: tf32
+      accumulation: f32
+      value: 128
+    - input: bf16
+      accumulation: f32
+      value: 256
+    - input: f16
+      accumulation: f32
+      value: 256
+    - input: f16
+      accumulation: f16
+      value: 512
+    - input: int8
+      accumulation: int32
+      value: 1024
+    - input: int4
+      accumulation: int32
+      value: 2048
+    - input: int1
+      accumulation: int32
+      value: -1
+- tensor_core_gen: 3
+  tensor_core_type: datacenter
+  fma_per_sm_per_cycle:
+    - input: f64
+      accumulation: f64
+      value: 64
+    - input: tf32
+      accumulation: f32
+      value: 512
+    - input: bf16
+      accumulation: f32
+      value: 1024
+    - input: f16
+      accumulation: f32
+      value: 1024
+    - input: f16
+      accumulation: f16
+      value: 1024
+    - input: int8
+      accumulation: int32
+      value: 2048
+    - input: int4
+      accumulation: int32
+      value: 4096
+    - input: int1
+      accumulation: int32
+      value: 16384
+- tensor_core_gen: 4
+  tensor_core_type: consumer
+  fma_per_sm_per_cycle:
+    - input: f64
+      accumulation: f64
+      value: -1
+    - input: tf32
+      accumulation: f32
+      value: 128
+    - input: bf16
+      accumulation: f32
+      value: 256
+    - input: f16
+      accumulation: f16
+      value: 512
+    - input: f16
+      accumulation: f32
+      value: 256
+    - input: f8
+      accumulation: f16
+      value: 1024
+    - input: f8
+      accumulation: f32
+      value: 512
+    - input: int8
+      accumulation: int32
+      value: 1024
+    - input: int4
+      accumulation: int32
+      value: 2048
+    - input: int1
+      accumulation: int32
+      value: -1
+- tensor_core_gen: 4
+  tensor_core_type: datacenter
+  fma_per_sm_per_cycle:
+    - input: f64
+      accumulation: f64
+      value: 128
+    - input: tf32
+      accumulation: f32
+      value: 1024
+    - input: bf16
+      accumulation: f32
+      value: 2048
+    - input: f16
+      accumulation: f16
+      value: 2048
+    - input: f16
+      accumulation: f32
+      value: 2048
+    - input: f8
+      accumulation: f16
+      value: 4096
+    - input: f8
+      accumulation: f32
+      value: 4096
+    - input: int8
+      accumulation: int32
+      value: 4096
+    - input: int4
+      accumulation: int32
+      value: 8192
+    - input: int1
+      accumulation: int32
+      value: 32768

@@ -1,0 +1,286 @@
+- gpu: GeForce RTX 2060
+  architecture: Turing
+  code_name:
+    - TU106-200A
+  l2_cache:
+    value: 3
+    unit: MB
+  vram:
+    value: 6
+    unit: GB
+  memory_bandwidth:
+    value: 336
+    unit: GB/s
+  cuda_cores:
+    value: 1920
+    unit: null
+  sm_count:
+    value: 30
+    unit: null
+  max_clock:
+    value: 1680
+    unit: MHz
+- gpu: GeForce RTX 2060
+  architecture: Turing
+  code_name:
+    - TU104-150
+  l2_cache:
+    value: 3
+    unit: MB
+  vram:
+    value: 6
+    unit: GB
+  memory_bandwidth:
+    value: 336
+    unit: GB/s
+  cuda_cores:
+    value: 1920
+    unit: null
+  sm_count:
+    value: 30
+    unit: null
+  max_clock:
+    value: 1680
+    unit: MHz
+- gpu: GeForce RTX 2060 (12 GB)
+  architecture: Turing
+  code_name:
+    - TU106-300
+  l2_cache:
+    value: 3
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 336
+    unit: GB/s
+  cuda_cores:
+    value: 2176
+    unit: null
+  sm_count:
+    value: 34
+    unit: null
+  max_clock:
+    value: 1650
+    unit: MHz
+- gpu: GeForce RTX 2060 Super
+  architecture: Turing
+  code_name:
+    - TU106-410
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 2176
+    unit: null
+  sm_count:
+    value: 34
+    unit: null
+  max_clock:
+    value: 1650
+    unit: MHz
+- gpu: GeForce RTX 2070
+  architecture: Turing
+  code_name:
+    - TU106-400
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 2304
+    unit: null
+  sm_count:
+    value: 36
+    unit: null
+  max_clock:
+    value: 1620
+    unit: MHz
+- gpu: GeForce RTX 2070
+  architecture: Turing
+  code_name:
+    - TU106-400A
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 2304
+    unit: null
+  sm_count:
+    value: 36
+    unit: null
+  max_clock:
+    value: 1620
+    unit: MHz
+- gpu: GeForce RTX 2070 Super
+  architecture: Turing
+  code_name:
+    - TU104-410
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 2560
+    unit: null
+  sm_count:
+    value: 40
+    unit: null
+  max_clock:
+    value: 1770
+    unit: MHz
+- gpu: GeForce RTX 2080
+  architecture: Turing
+  code_name:
+    - TU104-400
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 2944
+    unit: null
+  sm_count:
+    value: 46
+    unit: null
+  max_clock:
+    value: 1710
+    unit: MHz
+- gpu: GeForce RTX 2080
+  architecture: Turing
+  code_name:
+    - TU104-400A
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448
+    unit: GB/s
+  cuda_cores:
+    value: 2944
+    unit: null
+  sm_count:
+    value: 46
+    unit: null
+  max_clock:
+    value: 1710
+    unit: MHz
+- gpu: GeForce RTX 2080 Super
+  architecture: Turing
+  code_name:
+    - TU104-450
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 496
+    unit: GB/s
+  cuda_cores:
+    value: 3072
+    unit: null
+  sm_count:
+    value: 48
+    unit: null
+  max_clock:
+    value: 1815
+    unit: MHz
+- gpu: GeForce RTX 2080 Ti
+  architecture: Turing
+  code_name:
+    - TU102-300
+  l2_cache:
+    value: 5.5
+    unit: MB
+  vram:
+    value: 11
+    unit: GB
+  memory_bandwidth:
+    value: 616
+    unit: GB/s
+  cuda_cores:
+    value: 4352
+    unit: null
+  sm_count:
+    value: 68
+    unit: null
+  max_clock:
+    value: 1545
+    unit: MHz
+- gpu: GeForce RTX 2080 Ti
+  architecture: Turing
+  code_name:
+    - TU102-300A
+  l2_cache:
+    value: 5.5
+    unit: MB
+  vram:
+    value: 11
+    unit: GB
+  memory_bandwidth:
+    value: 616
+    unit: GB/s
+  cuda_cores:
+    value: 4352
+    unit: null
+  sm_count:
+    value: 68
+    unit: null
+  max_clock:
+    value: 1635
+    unit: MHz
+- gpu: Nvidia Titan RTX
+  architecture: Turing
+  code_name:
+    - TU102-400
+  l2_cache:
+    value: 6
+    unit: MB
+  vram:
+    value: 24
+    unit: GB
+  memory_bandwidth:
+    value: 672
+    unit: GB/s
+  cuda_cores:
+    value: 4608
+    unit: null
+  sm_count:
+    value: 72
+    unit: null
+  max_clock:
+    value: 1770
+    unit: MHz

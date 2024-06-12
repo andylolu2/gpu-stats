@@ -1,0 +1,252 @@
+- gpu: GeForce RTX 2050
+  architecture: null
+  code_name:
+    - GA107
+  l2_cache:
+    value: 2
+    unit: MB
+  vram:
+    value: 4
+    unit: GB
+  memory_bandwidth:
+    value: 112.0
+    unit: GB/s
+  cuda_cores:
+    value: 2048
+    unit: null
+  sm_count:
+    value: 16
+    unit: null
+  max_clock:
+    value: 1477
+    unit: MHz
+
+- gpu: GeForce RTX 2060
+  architecture: null
+  code_name:
+    - TU106
+  l2_cache:
+    value: 3
+    unit: MB
+  vram:
+    value: 6
+    unit: GB
+  memory_bandwidth:
+    value: 336.0
+    unit: GB/s
+  cuda_cores:
+    value: 1920
+    unit: null
+  sm_count:
+    value: 30
+    unit: null
+  max_clock:
+    value: 1200
+    unit: MHz
+
+- gpu: GeForce RTX 2060 Max-Q
+  architecture: null
+  code_name:
+    - TU106
+  l2_cache:
+    value: 3
+    unit: MB
+  vram:
+    value: 6
+    unit: GB
+  memory_bandwidth:
+    value: 264.0
+    unit: GB/s
+  cuda_cores:
+    value: 1920
+    unit: null
+  sm_count:
+    value: 30
+    unit: null
+  max_clock:
+    value: 1175
+    unit: MHz
+
+- gpu: GeForce RTX 2070
+  architecture: null
+  code_name:
+    - TU106
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448.0
+    unit: GB/s
+  cuda_cores:
+    value: 2304
+    unit: null
+  sm_count:
+    value: 36
+    unit: null
+  max_clock:
+    value: 1440
+    unit: MHz
+
+- gpu: GeForce RTX 2070 Max-Q
+  architecture: null
+  code_name:
+    - TU106
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448.0
+    unit: GB/s
+  cuda_cores:
+    value: 2304
+    unit: null
+  sm_count:
+    value: 36
+    unit: null
+  max_clock:
+    value: 1185
+    unit: MHz
+
+- gpu: GeForce RTX 2070 Super
+  architecture: null
+  code_name:
+    - TU104
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448.0
+    unit: GB/s
+  cuda_cores:
+    value: 2560
+    unit: null
+  sm_count:
+    value: 40
+    unit: null
+  max_clock:
+    value: 1380
+    unit: MHz
+
+- gpu: GeForce RTX 2070 Super Max-Q
+  architecture: null
+  code_name:
+    - TU104
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448.0
+    unit: GB/s
+  cuda_cores:
+    value: 2560
+    unit: null
+  sm_count:
+    value: 40
+    unit: null
+  max_clock:
+    value: 1155
+    unit: MHz
+
+- gpu: GeForce RTX 2080
+  architecture: null
+  code_name:
+    - TU104
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 384.0
+    unit: GB/s
+  cuda_cores:
+    value: 2944
+    unit: null
+  sm_count:
+    value: 46
+    unit: null
+  max_clock:
+    value: 1590
+    unit: MHz
+
+- gpu: GeForce RTX 2080 Max-Q
+  architecture: null
+  code_name:
+    - TU104
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 384.0
+    unit: GB/s
+  cuda_cores:
+    value: 2944
+    unit: null
+  sm_count:
+    value: 46
+    unit: null
+  max_clock:
+    value: 1095
+    unit: MHz
+
+- gpu: GeForce RTX 2080 Super
+  architecture: null
+  code_name:
+    - TU104
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448.0
+    unit: GB/s
+  cuda_cores:
+    value: 3072
+    unit: null
+  sm_count:
+    value: 48
+    unit: null
+  max_clock:
+    value: 1560
+    unit: MHz
+
+- gpu: GeForce RTX 2080 Super Max-Q
+  architecture: null
+  code_name:
+    - TU104
+  l2_cache:
+    value: 4
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 448.0
+    unit: GB/s
+  cuda_cores:
+    value: 3072
+    unit: null
+  sm_count:
+    value: 48
+    unit: null
+  max_clock:
+    value: 1080
+    unit: MHz

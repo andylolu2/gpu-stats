@@ -1,0 +1,119 @@
+- gpu: GeForce RTX 4050 Laptop
+  architecture: null
+  code_name:
+    - AD107
+    - GN21-X2
+  l2_cache:
+    value: 12
+    unit: MB
+  vram:
+    value: 6
+    unit: GB
+  memory_bandwidth:
+    value: 192
+    unit: GB/s
+  cuda_cores:
+    value: 2560
+    unit: null
+  sm_count:
+    value: 20
+    unit: null
+  max_clock:
+    value: 2370
+    unit: MHz
+
+- gpu: GeForce RTX 4060 Laptop
+  architecture: null
+  code_name:
+    - AD107
+    - GN21-X4
+  l2_cache:
+    value: 24
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 256
+    unit: GB/s
+  cuda_cores:
+    value: 3072
+    unit: null
+  sm_count:
+    value: 24
+    unit: null
+  max_clock:
+    value: 2370
+    unit: MHz
+
+- gpu: GeForce RTX 4070 Laptop
+  architecture: null
+  code_name:
+    - AD106
+    - GN21-X6
+  l2_cache:
+    value: 36
+    unit: MB
+  vram:
+    value: 8
+    unit: GB
+  memory_bandwidth:
+    value: 256
+    unit: GB/s
+  cuda_cores:
+    value: 4608
+    unit: null
+  sm_count:
+    value: 36
+    unit: null
+  max_clock:
+    value: 2175
+    unit: MHz
+
+- gpu: GeForce RTX 4080 Laptop
+  architecture: null
+  code_name:
+    - AD104
+    - GN21-X9
+  l2_cache:
+    value: 48
+    unit: MB
+  vram:
+    value: 12
+    unit: GB
+  memory_bandwidth:
+    value: 432
+    unit: GB/s
+  cuda_cores:
+    value: 7424
+    unit: null
+  sm_count:
+    value: 58
+    unit: null
+  max_clock:
+    value: 2280
+    unit: MHz
+
+- gpu: GeForce RTX 4090 Laptop
+  architecture: null
+  code_name:
+    - AD103
+    - GN21-X11
+  l2_cache:
+    value: 64
+    unit: MB
+  vram:
+    value: 16
+    unit: GB
+  memory_bandwidth:
+    value: 576
+    unit: GB/s
+  cuda_cores:
+    value: 9728
+    unit: null
+  sm_count:
+    value: 76
+    unit: null
+  max_clock:
+    value: 2040
+    unit: MHz
